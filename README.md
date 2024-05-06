@@ -38,7 +38,7 @@ A secure login system implemented in Python using Tkinter for the GUI and SQLite
 
 ## Video Demo
 
-[![Watch the video](https://example.com/video_thumbnail.jpg)](https://youtu.be/B7imZ74QWeM](https://youtu.be/B7imZ74QWeM))
+[![Watch the video](https://github.com/sahanRanasingha/Secure-Login-System-with-Tkinter/blob/main/Secure%20Login%20System%20with%20Tkinter%20Cover.png)](https://youtu.be/B7imZ74QWeM](https://youtu.be/B7imZ74QWeM))
 
 
 ## Contributing
